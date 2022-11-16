@@ -9,10 +9,10 @@
   /* size */
   /* space */
   /* pos */
-  /* flex */
-  /* grid */
+  /* display */
   /* background */
-  /* background color will be used for child transparent html elements */
+  /* the background color will be used for child
+  transparent BEM blocks/elements */
   background-color: #2A2C2F;
   /* font */
   /* anima */
