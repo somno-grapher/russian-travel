@@ -2,8 +2,8 @@
 @import url(../vendor/normalize.css);
 
 /* root stylesheet */
-/* TODO check if root is used */
-/* @import url(../blocks/root/root.css); */
+@import url(../blocks/root/root.css);
 
 /* BEM stylesheets */
-/* pseudo-ascending ordered to facilitate search */
+/* pseudo-ascending order to facilitate search */
+@import url(../blocks/page/page.css);
