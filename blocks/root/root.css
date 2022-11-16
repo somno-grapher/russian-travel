@@ -1,37 +1,18 @@
-/* @font-face { */
-/* src: url('../../fonts/Inter-Regular.woff'); */
-/* font-family: 'Inter'; */
-/* font-weight: normal; */
-/* is by default */
-/* } */
-/*  */
-/* @font-face { */
-/* src: url('../../fonts/Inter-Bold.woff'); */
-/* font-family: 'Inter'; */
-/* font-weight: bold; */
-/* } */
-/*  */
-/* @font-face { */
-/* src: url('../../fonts/Inter-Black.woff'); */
-/* font-family: 'Inter'; */
-/* font-weight: 900; */
-/* } */
-
 /* for better understanding box areas */
-/* * { */
-/* box-sizing: border-box; */
-/* border: solid 1px gray; */
-/* } */
+* {
+  /* box-sizing: border-box; */
+  /* border: solid 1px gray; */
+  outline: solid 1px gray;
+}
 
 :root {
-  /* font-family: 'Inter', Arial, sans-serif; */
-
   /* size */
   /* space */
   /* pos */
   /* flex */
   /* grid */
   /* background */
+  /* background color will be used for child transparent html elements */
   background-color: #2A2C2F;
   /* font */
   /* anima */

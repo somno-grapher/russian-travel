@@ -1,5 +1,24 @@
+@font-face {
+  src: url('../../fonts/Inter-Regular.woff');
+  font-family: 'Inter';
+  /* by default */
+  /* font-weight: normal; */
+}
+
+@font-face {
+  src: url('../../fonts/Inter-Bold.woff');
+  font-family: 'Inter';
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('../../fonts/Inter-Black.woff');
+  font-family: 'Inter';
+  font-weight: 900;
+}
+
 /* standard rules */
-/* width [1024;1280) */
+/* for width [1024;1280) */
 
 .page {
   /* size */
@@ -12,5 +31,7 @@
   /* grid */
   /* background */
   /* font */
+  color: #fff;
+  font-family: 'Inter', Arial, sans-serif;
   /* anima */
 }
