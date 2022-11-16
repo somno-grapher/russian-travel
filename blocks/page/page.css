@@ -22,14 +22,19 @@
 
 .page {
   /* size */
-  width: 928px;
+  min-width: 1024px;
+  max-width: 1280px;
   /* space */
   margin-left: auto;
   margin-right: auto;
   /* pos */
   /* display */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   /* background */
   /* font */
+  /* will be inherited by childs if applicable */
   color: #fff;
   font-family: 'Inter', Arial, sans-serif;
   /* anima */
