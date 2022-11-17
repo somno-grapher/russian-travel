@@ -4,6 +4,9 @@
 /* root stylesheet */
 @import url(../blocks/root/root.css);
 
+/* common mix stylesheets */
+@import url(../blocks/mix-link/mix-link.css);
+
 /* BEM stylesheets */
 /* pseudo-ascending order to facilitate search */
 @import url(../blocks/header/header.css);

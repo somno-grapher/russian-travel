@@ -1,0 +1,8 @@
+.mix-link {
+  /* default ease is ok */
+  transition: opacity .2s;
+}
+
+.mix-link:hover {
+  opacity: .5;
+}
