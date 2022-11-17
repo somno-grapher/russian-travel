@@ -1,0 +1,20 @@
+.lead__image {
+  width: 100%;
+  padding-bottom: 8px;
+}
+
+/* TODO check */
+
+@media screen and (max-width: 1279px) {
+  .lead__image {
+    /* to provide monotonous image growth/shrick */
+    /* max-width: 984px; */
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__image {
+    /* to provide monotonous image growth/shrick */
+    /* max-width: 928px; */
+  }
+}

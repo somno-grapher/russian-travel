@@ -1,4 +1,27 @@
 .lead {
-  display: flex;
-  flex-direction: column;
+  padding-bottom: 92px;
+  padding-left: 148px;
+  padding-right: 148px;
+  text-align: center;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    padding-bottom: 88px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    padding-bottom: 64px;
+  }
 }

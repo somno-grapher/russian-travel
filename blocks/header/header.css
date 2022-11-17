@@ -1,63 +1,27 @@
-/* base width 1280px+; frame 1280px */
-
 .header {
-  /* size */
-  /* space */
   padding: 28px 48px 56px;
-  /* pos */
-  /* display */
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  /* background */
-  /* font */
-  /* anima */
 }
 
 @media screen and (max-width: 1279px) {
-
-  /* frame 1024px */
   .header {
-    /* size */
-    /* space */
     padding-bottom: 48px;
-    /* pos */
-    /* display */
-    /* background */
-    /* font */
-    /* anima */
   }
 }
 
 @media screen and (max-width: 1023px) {
-
-  /* frame 768px */
   .header {
-    /* size */
-    /* space */
     padding-left: 24px;
     padding-right: 24px;
-    /* pos */
-    /* display */
-    /* background */
-    /* font */
-    /* anima */
   }
 }
 
 @media screen and (max-width: 767px) {
-
-  /* frame 320px */
   .header {
-    /* size */
-    /* space */
-    padding-top: 16px;
     padding-left: 16px;
     padding-right: 16px;
-    /* pos */
-    /* display */
-    /* background */
-    /* font */
-    /* anima */
+    padding-top: 16px;
   }
 }

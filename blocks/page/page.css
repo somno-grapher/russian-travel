@@ -19,11 +19,10 @@
 
 .page {
   max-width: 1280px;
+  /* TODO on/off for test/release */
+  /* border: solid 5px gray; */
   margin-left: auto;
   margin-right: auto;
-  display: flex;
-  flex-direction: column;
-  /* align-items: stretch; by default */
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -40,20 +39,20 @@
 @media screen and (max-width: 1279px) {
   .page {
     /* TODO on/off for test/release */
-    outline: solid 1px red;
+    /* border: solid 5px red; */
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page {
     /* TODO on/off for test/release */
-    outline: solid 1px green;
+    /* border: solid 5px green; */
   }
 }
 
 @media screen and (max-width: 767px) {
   .page {
     /* TODO on/off for test/release */
-    outline: solid 1px blue;
+    /* border: solid 5px blue; */
   }
 }

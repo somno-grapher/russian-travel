@@ -1,61 +1,13 @@
-/* base width 1280px+; frame 1280px */
-
 .header__logo {
-  /* size */
   width: 176px;
   height: 52px;
   object-fit: contain;
-  /* space */
-  /* pos */
   object-position: left bottom;
-  /* display */
-  /* background */
-  /* font */
-  /* anima */
 }
 
-/* not used */
-/* // @media screen and (max-width: 1279px) { */
-
-/* // frame 1024px */
-/* // .header__logo { */
-/* // size */
-/* // space */
-/* // pos */
-/* // display */
-/* // background */
-/* // font */
-/* // anima */
-/* // } */
-/* // } */
-
-/* not used */
-/* // @media screen and (max-width: 1023px) { */
-
-/* // frame 768px */
-/* // .header__logo { */
-/* // size */
-/* // space */
-/* // pos */
-/* // display */
-/* // background */
-/* // font */
-/* // anima */
-/* // } */
-/* // } */
-
 @media screen and (max-width: 767px) {
-
-  /* frame 320px */
   .header__logo {
-    /* size */
     width: 142px;
     height: 42px;
-    /* space */
-    /* pos */
-    /* display */
-    /* background */
-    /* font */
-    /* anima */
   }
 }
