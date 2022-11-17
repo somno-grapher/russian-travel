@@ -1,13 +1,14 @@
 @font-face {
   src: url('../../fonts/Inter-Regular.woff');
   font-family: 'Inter';
-  /* by default */
+  /* by default; normal=400 */
   /* font-weight: normal; */
 }
 
 @font-face {
   src: url('../../fonts/Inter-Bold.woff');
   font-family: 'Inter';
+  /* bold=700 */
   font-weight: bold;
 }
 
@@ -33,6 +34,12 @@
   /* align-items: stretch; by default */
   /* background */
   /* font */
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  /* text-rendering: optimizeLegibility; not needed */
   /* properties will be inherited by childs if applicable */
   color: #fff;
   font-family: 'Inter', Arial, sans-serif;
