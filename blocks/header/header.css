@@ -1,0 +1,15 @@
+/* standard rules for width [1024;1280) */
+
+.header {
+  /* size */
+  /* space */
+  padding: 28px 48px 48px;
+  /* pos */
+  /* display */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  /* background */
+  /* font */
+  /* anima */
+}

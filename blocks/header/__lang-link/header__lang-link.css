@@ -1,0 +1,40 @@
+/* standard rules for width [1024;1280) */
+
+.header__lang-link {
+  /* size */
+  /* space */
+  margin: 0 18px 0 0;
+  /* pos */
+  /* display */
+  /* background */
+  /* font */
+  color: #fff;
+  font-size: 24px;
+  /* line-height: 28px; not needed for one line */
+  text-decoration: none;
+  /* anima */
+}
+
+.header__lang-link:last-child {
+  /* size */
+  /* space */
+  margin-right: 0;
+  /* pos */
+  /* display */
+  /* background */
+  /* font */
+  /* anima */
+}
+
+/* for unification purpose (in case we have more langs) */
+/* but other approaches are possible */
+.header__lang-link:nth-child(1) {
+  /* size */
+  /* space */
+  /* pos */
+  /* display */
+  /* background */
+  /* font */
+  text-decoration: underline;
+  /* anima */
+}
