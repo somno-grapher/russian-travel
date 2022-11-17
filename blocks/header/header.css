@@ -1,9 +1,9 @@
-/* standard rules for width [1024;1280) */
+/* base width [1280px+ */
 
 .header {
   /* size */
   /* space */
-  padding: 28px 48px 48px;
+  padding: 28px 48px 56px;
   /* pos */
   /* display */
   display: flex;

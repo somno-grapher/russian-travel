@@ -1,4 +1,4 @@
-/* standard rules for width [1024;1280) */
+/* base width [1280px+ */
 
 .header__lang-link {
   /* size */
@@ -10,7 +10,8 @@
   /* font */
   color: #fff;
   font-size: 24px;
-  /* line-height: 28px; not needed for one line */
+  /* not needed for one line */
+  /* // line-height: 28px; */
   text-decoration: none;
   /* anima */
 }
@@ -26,7 +27,7 @@
   /* anima */
 }
 
-/* for unification purpose (in case we have more langs) */
+/* for unification purpose in case we have more langs */
 /* but other approaches are possible */
 .header__lang-link:nth-child(1) {
   /* size */
