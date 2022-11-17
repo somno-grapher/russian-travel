@@ -1,18 +1,9 @@
 /* for better understanding box areas */
 * {
-  /* box-sizing: border-box; */
-  /* border: solid 1px gray; */
   outline: solid 1px gray;
 }
 
 :root {
-  /* size */
-  /* space */
-  /* pos */
-  /* display */
-  /* background */
-  /* the background color will be used for the child transparent BEM blocks/elements */
+  /* the background color will be used for the child transparent blocks/elements */
   background-color: #2A2C2F;
-  /* font */
-  /* anima */
 }
