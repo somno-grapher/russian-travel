@@ -1,41 +1,20 @@
-/* base width 1280px+; frame 1280px */
-
 .header__lang-link {
-  /* size */
-  /* space */
   margin: 0 18px 0 0;
-  /* pos */
-  /* display */
-  /* background */
-  /* font */
   color: #fff;
   font-size: 24px;
-  /* not needed for one line */
-  /* // line-height: 28px; */
   text-decoration: none;
-  /* anima */
 }
 
 .header__lang-link:last-child {
-  /* size */
-  /* space */
   margin-right: 0;
-  /* pos */
-  /* display */
-  /* background */
-  /* font */
-  /* anima */
 }
 
-/* for unification purpose in case we have more langs */
-/* but other approaches are possible */
 .header__lang-link:nth-child(1) {
-  /* size */
-  /* space */
-  /* pos */
-  /* display */
-  /* background */
-  /* font */
   text-decoration: underline;
-  /* anima */
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+  }
 }
