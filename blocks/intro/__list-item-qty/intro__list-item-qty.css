@@ -1,0 +1,23 @@
+ /* #1280 */
+ .intro__list-item-qty {
+   /* position */
+   /* display */
+   display: inline;
+   /* size */
+   /* spacing */
+   margin: 0;
+   padding: 0;
+   /* background */
+   /* text */
+   font-weight: 400;
+   /* animation */
+ }
+
+ /* #1024 */
+ /* @media screen and (max-width: 1279px) {} */
+
+ /* #768 */
+ /* @media screen and (max-width: 1023px) {} */
+
+ /* #320 */
+ /* @media screen and (max-width: 767px) {} */
