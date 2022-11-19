@@ -16,7 +16,19 @@
 }
 
 /* #1024 */
-/* @media screen and (max-width: 1279px) {} */
+@media screen and (max-width: 1279px) {
+  .cover {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    padding-right: 0;
+    padding-left: 0;
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
 
 /* #768 */
 @media screen and (max-width: 1023px) {
@@ -25,6 +37,7 @@
     /* display */
     /* size */
     /* spacing */
+    padding-bottom: 88px;
     /* background */
     /* text */
     /* animation */
@@ -32,4 +45,15 @@
 }
 
 /* #320 */
-/* @media screen and (max-width: 767px) {} */
+@media screen and (max-width: 767px) {
+  .cover {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    padding-bottom: 64px;
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
