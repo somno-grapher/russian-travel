@@ -1,0 +1,37 @@
+ /* #1280 */
+ .place__link {
+   /* position */
+   /* display */
+   /* size */
+   /* spacing */
+   margin: 0;
+   padding: 0;
+   /* background */
+   /* text */
+   font-size: 18px;
+   line-height: 22px;
+   text-decoration-line: underline;
+   color: #FFFFFF;
+   /* animation */
+ }
+
+ /* #1024 */
+ /* @media screen and (max-width: 1279px) {} */
+
+ /* #768 */
+ @media screen and (max-width: 1023px) {
+   .place__link {
+     /* position */
+     /* display */
+     /* size */
+     /* spacing */
+     /* * to fulfil layout reqs*/
+     /* background */
+     /* text */
+     line-height: 12px;
+     /* animation */
+   }
+ }
+
+ /* #320 */
+ /* @media screen and (max-width: 767px) {} */

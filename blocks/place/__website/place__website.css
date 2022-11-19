@@ -1,10 +1,9 @@
  /* #1280 */
- .place__image {
+ .place__website {
    /* position */
    /* display */
+   align-self: end;
    /* size */
-   width: 100%;
-   object-fit: cover;
    /* spacing */
    /* background */
    /* text */
