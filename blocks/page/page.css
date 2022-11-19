@@ -20,7 +20,7 @@
 .page {
   max-width: 1280px;
   /* TODO on/off for test/release */
-  border: solid 5px gray;
+  /* border: solid 5px gray; */
   margin-left: auto;
   margin-right: auto;
   -moz-osx-font-smoothing: grayscale;
@@ -39,20 +39,20 @@
 @media screen and (max-width: 1279px) {
   .page {
     /* TODO on/off for test/release */
-    border: solid 5px red;
+    /* border: solid 5px red; */
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page {
     /* TODO on/off for test/release */
-    border: solid 5px green;
+    /* border: solid 5px green; */
   }
 }
 
 @media screen and (max-width: 767px) {
   .page {
     /* TODO on/off for test/release */
-    border: solid 5px blue;
+    /* border: solid 5px blue; */
   }
 }

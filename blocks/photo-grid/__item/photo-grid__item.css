@@ -3,7 +3,10 @@
   /* position */
   /* display */
   /* size */
-  /* * if height is sot set object-fit will not work */
+  /* * if height is not set object-fit will not work */
+  /* * option: to prevent grid grom tall cells when tall images are used fix height needs to be set */
+  /* * option: height: 213px; */
+  /* * option note: max-height will not allow a cell height to shrink until the tallest image is fully fit in the cell */
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -16,12 +19,47 @@
 }
 
 /* #1024 */
-/* @media screen and (max-width: 1279px) {} */
+/* @media screen and (max-width: 1279px) { */
+/* .photo-grid__item { */
+/* position */
+/* display */
+/* size */
+/* * option: height: 225px; */
+/* spacing */
+/* background */
+/* text */
+/* animation */
+/* } */
+/* } */
 
 /* #768 */
-/* @media screen and (max-width: 1023px) {} */
+/* @media screen and (max-width: 1023px) { */
+/* .photo-grid__item { */
+/* position */
+/* display */
+/* size */
+/* * option: height: 264px; */
+/* spacing */
+/* background */
+/* text */
+/* animation */
+/* } */
+/* } */
 
 /* #320 */
-/* @media screen and (max-width: 767px) {} */
+/* @media screen and (max-width: 767px) { */
+/* .photo-grid__item { */
+/* position */
+/* display */
+/* size */
+/* * option: max-height + to let height shrink */
+/* * height: 100%; */
+/* * max-height: 216px; */
+/* spacing */
+/* background */
+/* text */
+/* animation */
+/* } */
+/* } */
 
 /* TODO 425px? */
