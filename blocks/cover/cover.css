@@ -1,0 +1,35 @@
+/* #1280 */
+.cover {
+  /* position */
+  /* display */
+  display: block;
+  /* size */
+  /* spacing */
+  padding-right: 48px;
+  padding-bottom: 92px;
+  padding-left: 48px;
+  /* background */
+  /* text */
+  text-decoration: none;
+  color: #fff;
+  /* animation */
+}
+
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
+
+/* #768 */
+@media screen and (max-width: 1023px) {
+  .cover {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
+
+/* #320 */
+/* @media screen and (max-width: 767px) {} */

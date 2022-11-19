@@ -1,0 +1,35 @@
+/* #1280 */
+.cover__subtitle {
+  /* position */
+  /* display */
+  /* size */
+  width: 360px;
+  /* spacing */
+  padding: 0;
+  margin: 0;
+  /* background */
+  /* text */
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  /* animation */
+}
+
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
+
+/* #768 */
+@media screen and (max-width: 1023px) {
+  .cover__subtitle {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
+
+/* #320 */
+/* @media screen and (max-width: 767px) {} */
