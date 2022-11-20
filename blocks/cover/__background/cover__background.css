@@ -17,6 +17,8 @@
   background-position: center;
   background-repeat: no-repeat;
   /* text */
+  text-decoration: none;
+  color: #fff;
   /* animation */
 }
 
@@ -84,14 +86,14 @@
 /* #320 */
 @media screen and (max-width: 767px) {
   .cover__background {
-      /* position */
-      /* display */
-      /* size */
-      /* spacing */
-      padding-top: 33px;
-      padding-bottom: 33px;
-      /* background */
-      /* text */
-      /* animation */
-    }
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    padding-top: 33px;
+    padding-bottom: 33px;
+    /* background */
+    /* text */
+    /* animation */
+  }
 }

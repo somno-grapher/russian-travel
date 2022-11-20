@@ -30,4 +30,17 @@
 }
 
 /* #320 */
-/* @media screen and (max-width: 767px) {} */
+@media screen and (max-width: 767px) {
+  .place__description {
+    /* position */
+    /* display */
+    /* align-self: end; */
+    /* size */
+    /* spacing */
+    padding-right: 16px;
+    padding-left: 16px;
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
