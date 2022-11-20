@@ -20,7 +20,7 @@
 .page {
   max-width: 1280px;
   /* TODO on/off for test/release */
-  border: solid 5px gray;
+  /* border: solid 5px gray; */
   margin-left: auto;
   margin-right: auto;
   -moz-osx-font-smoothing: grayscale;

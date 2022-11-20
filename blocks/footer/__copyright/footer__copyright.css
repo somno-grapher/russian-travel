@@ -4,10 +4,12 @@
   /* display */
   /* size */
   /* spacing */
+  margin: 0;
+  padding: 0;
   /* background */
   /* text */
   font-size: 14px;
-  line-height: 16;
+  line-height: 16px;
   /* animation */
 }
 
@@ -26,7 +28,7 @@
     /* spacing */
     /* background */
     /* text */
-    line-height: 14;
+    line-height: 14px;
     /* animation */
   }
 }
