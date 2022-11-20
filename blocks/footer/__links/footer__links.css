@@ -1,0 +1,33 @@
+/* #1280 */
+.footer__links {
+  /* position */
+  /* display */
+  display: flex;
+  align-content: flex-end;
+  /* size */
+  /* spacing */
+  /* background */
+  /* text */
+  /* animation */
+}
+
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
+
+/* #768 */
+/* @media screen and (max-width: 1023px) {} */
+
+/* #320 */
+@media screen and (max-width: 767px) {
+  .footer__links {
+    /* position */
+    /* display */
+    flex-direction: column;
+    align-items: flex-start;
+    /* size */
+    /* spacing */
+    /* background */
+    /* text */
+    /* animation */
+  }
+}
