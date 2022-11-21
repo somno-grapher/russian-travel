@@ -3,7 +3,8 @@
   /* position */
   /* display */
   /* size */
-  width: 560px;
+  max-width: 560px;
+  width: 100%;
   /* spacing */
   padding: 0 0 32px;
   margin: 0 auto 0;
@@ -27,7 +28,8 @@
     /* position */
     /* display */
     /* size */
-    width: 288px;
+    max-width: 288px;
+    width: 100%;
     /* spacing */
     padding-bottom: 16px;
     /* background */
