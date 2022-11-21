@@ -6,12 +6,11 @@
   width: 360px;
   /* spacing */
   padding: 0;
-  margin: 0;
+  margin: 0 auto 0;
   /* background */
   /* text */
   font-size: 18px;
   line-height: 22px;
-  text-align: center;
   /* animation */
 }
 
