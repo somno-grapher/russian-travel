@@ -1,10 +1,19 @@
-/* TODO to be commented */
-/* for better understanding box areas */
-* {
-  /* outline: solid 1px gray; */
-}
+/* ! for tests */
+/* * {
+  outline: solid 1px gray;
+} */
 
+/* #1280 */
 :root {
-  /* the background color will be used for the child transparent blocks/elements */
+  /* background color will be used for the transparent childs */
   background-color: #2A2C2F;
 }
+
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
+
+/* #768 */
+/* @media screen and (max-width: 1023px) {} */
+
+/* #320 */
+/* @media screen and (max-width: 767px) {} */

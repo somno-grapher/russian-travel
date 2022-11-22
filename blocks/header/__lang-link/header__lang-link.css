@@ -1,18 +1,47 @@
+/* #1280 */
 .header__lang-link {
+  /* position */
+  /* display */
+  /* size */
+  /* spacing */
   margin: 0 18px 0 0;
+  /* background */
+  /* text */
   color: #fff;
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
+  /* animation */
 }
 
 .header__lang-link:last-child {
+  /* position */
+  /* display */
+  /* size */
+  /* spacing */
   margin-right: 0;
+  /* background */
+  /* text */
+  /* animation */
 }
 
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
+
+/* #768 */
+/* @media screen and (max-width: 1023px) {} */
+
+/* #320 */
 @media screen and (max-width: 767px) {
   .header__lang-link {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    /* background */
+    /* text */
     font-size: 18px;
     line-height: 20px;
+    /* animation */
   }
 }

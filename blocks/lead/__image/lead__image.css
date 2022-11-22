@@ -1,20 +1,14 @@
+/* #1280 */
 .lead__image {
   width: 100%;
   padding-bottom: 8px;
 }
 
-/* TODO check */
+/* #1024 */
+/* @media screen and (max-width: 1279px) {} */
 
-@media screen and (max-width: 1279px) {
-  .lead__image {
-    /* to provide monotonous image growth/shrick */
-    /* max-width: 984px; */
-  }
-}
+/* #768 */
+/* @media screen and (max-width: 1023px) {} */
 
-@media screen and (max-width: 1023px) {
-  .lead__image {
-    /* to provide monotonous image growth/shrick */
-    /* max-width: 928px; */
-  }
-}
+/* #320 */
+/* @media screen and (max-width: 767px) {} */

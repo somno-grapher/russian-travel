@@ -1,27 +1,59 @@
+/* #1280 */
 .lead {
+  /* position */
+  /* display */
+  /* size */
+  /* spacing */
+  padding-right: 148px;
   padding-bottom: 92px;
   padding-left: 148px;
-  padding-right: 148px;
+  /* background */
+  /* text */
   text-align: center;
+  /* animation */
 }
 
+/* #1024 */
 @media screen and (max-width: 1279px) {
   .lead {
-    padding-left: 48px;
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
     padding-right: 48px;
+    padding-left: 48px;
+    /* background */
+    /* text */
+    /* animation */
   }
 }
 
+/* #768 */
 @media screen and (max-width: 1023px) {
   .lead {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
+    padding-right: 0;
     padding-bottom: 88px;
     padding-left: 0;
-    padding-right: 0;
+    /* background */
+    /* text */
+    /* animation */
   }
 }
 
+/* #320 */
 @media screen and (max-width: 767px) {
   .lead {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
     padding-bottom: 64px;
+    /* background */
+    /* text */
+    /* animation */
   }
 }

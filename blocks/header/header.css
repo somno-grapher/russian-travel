@@ -1,27 +1,59 @@
+/* #1280 */
 .header {
-  padding: 28px 48px 56px;
+  /* position */
+  /* display */
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  /* size */
+  /* spacing */
+  padding: 28px 48px 56px;
+  /* background */
+  /* text */
+  /* animation */
 }
 
+/* #1024 */
 @media screen and (max-width: 1279px) {
   .header {
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
     padding-bottom: 48px;
+    /* background */
+    /* text */
+    /* animation */
   }
 }
 
+/* #768 */
 @media screen and (max-width: 1023px) {
   .header {
-    padding-left: 24px;
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
     padding-right: 24px;
+    padding-left: 24px;
+    /* background */
+    /* text */
+    /* animation */
   }
 }
 
+/* #320 */
 @media screen and (max-width: 767px) {
   .header {
-    padding-left: 16px;
-    padding-right: 16px;
+    /* position */
+    /* display */
+    /* size */
+    /* spacing */
     padding-top: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+    /* background */
+    /* text */
+    /* animation */
   }
 }
