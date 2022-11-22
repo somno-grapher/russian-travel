@@ -4,24 +4,14 @@
   /* display */
   /* size */
   /* spacing */
-  margin: 0 18px 0 0;
+  margin: 0;
+  padding: 0;
   /* background */
   /* text */
   color: #fff;
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
-  /* animation */
-}
-
-.header__lang-link:last-child {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
-  margin-right: 0;
-  /* background */
-  /* text */
   /* animation */
 }
 

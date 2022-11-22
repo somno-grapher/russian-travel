@@ -1,15 +1,23 @@
 /* #1280 */
-.header__lang-links {
+.header__lang-item {
   /* position */
   /* display */
-  display: flex;
   /* size */
   /* spacing */
-  margin: 0;
-  padding: 0;
+  margin-right: 18px;
   /* background */
   /* text */
-  list-style-type: none;
+  /* animation */
+}
+
+.header__lang-item:last-child {
+  /* position */
+  /* display */
+  /* size */
+  /* spacing */
+  margin-right: 0;
+  /* background */
+  /* text */
   /* animation */
 }
 
