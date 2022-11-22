@@ -1,13 +1,16 @@
 /* #1280 */
-.footer__links {
+.footer__links-list {
   /* position */
   /* display */
   display: flex;
   align-items: flex-end;
   /* size */
   /* spacing */
+  margin: 0;
+  padding: 0;
   /* background */
   /* text */
+  list-style-type: none;
   /* animation */
 }
 
@@ -19,7 +22,7 @@
 
 /* #320 */
 @media screen and (max-width: 767px) {
-  .footer__links {
+  .footer__links-list {
     /* position */
     /* display */
     flex-direction: column;

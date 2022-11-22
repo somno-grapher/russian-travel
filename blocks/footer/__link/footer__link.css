@@ -5,24 +5,13 @@
   /* size */
   /* spacing */
   margin: 0;
-  padding: 0 18px 0 0;
+  padding: 0;
   /* background */
   /* text */
   color: #fff;
   font-size: 16px;
   line-height: 18px;
   text-decoration: none;
-  /* animation */
-}
-
-.footer__link:last-of-type {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
-  padding-right: 0;
-  /* background */
-  /* text */
   /* animation */
 }
 
@@ -39,7 +28,6 @@
     /* display */
     /* size */
     /* spacing */
-    padding: 0 0 32px;
     /* background */
     /* text */
     font-size: 24px;
