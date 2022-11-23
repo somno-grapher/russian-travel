@@ -12,7 +12,7 @@
   /* text */
   font-size: 96px;
   font-weight: 900;
-  line-height: 100px;
+  line-height: 1.04;
   /* animation */
 }
 
@@ -34,7 +34,7 @@
     /* background */
     /* text */
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
     /* animation */
   }
 }

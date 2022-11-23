@@ -10,7 +10,7 @@
    /* text */
    color: #AAAAAA;
    font-size: 12px;
-   line-height: 170%;
+   line-height: 1.7;
    letter-spacing: 2px;
    /* animation */
  }
@@ -27,7 +27,7 @@
      /* spacing */
      /* background */
      /* text */
-     line-height: 12px;
+     line-height: 1;
      /* animation */
    }
  }

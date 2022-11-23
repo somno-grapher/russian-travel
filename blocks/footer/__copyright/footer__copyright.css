@@ -9,7 +9,7 @@
   /* background */
   /* text */
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   /* animation */
 }
 
@@ -28,7 +28,7 @@
     /* spacing */
     /* background */
     /* text */
-    line-height: 14px;
+    line-height: 1;
     /* animation */
   }
 }

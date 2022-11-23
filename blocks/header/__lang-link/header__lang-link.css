@@ -10,7 +10,7 @@
   /* text */
   color: #fff;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 1.17;
   text-decoration: none;
   /* animation */
 }
@@ -31,7 +31,7 @@
     /* background */
     /* text */
     font-size: 18px;
-    line-height: 20px;
+    line-height: 1.11;
     /* animation */
   }
 }

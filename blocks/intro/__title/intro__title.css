@@ -8,7 +8,7 @@
    /* text */
    font-weight: 900;
    font-size: 54px;
-   line-height: 58px;
+   line-height: 1.07;
    /* animation */
  }
 
@@ -28,7 +28,7 @@
      /* background */
      /* text */
      font-size: 32px;
-     line-height: 35px;
+     line-height: 1.09;
      /* animation */
    }
  }
