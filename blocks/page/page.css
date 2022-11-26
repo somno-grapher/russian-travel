@@ -1,69 +1,15 @@
-@font-face {
-  src: url('../../fonts/Inter-Regular.woff');
-  font-family: 'Inter';
-  /* normal (400); by default */
-}
-
-@font-face {
-  src: url('../../fonts/Inter-Bold.woff');
-  font-family: 'Inter';
-  /* bold (700) */
-  font-weight: bold;
-}
-
-@font-face {
-  src: url('../../fonts/Inter-Black.woff');
-  font-family: 'Inter';
-  font-weight: 900;
-}
-
-/* #1280 */
 .page {
-  /* position */
-  /* display */
-  /* size */
   max-width: 1280px;
-  /* spacing */
-  /* ! for tests */
-  /* border: solid 5px gray; */
   margin-left: auto;
   margin-right: auto;
-  /* background */
-  /* text */
-  /* * the properties will be inherited by the childs if applicable */
   color: #fff;
   font-family: 'Inter', Arial, sans-serif;
-  /* * text optimizing */
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  /* * not needed */
-  /* text-rendering: optimizeLegibility; */
-  /* animation */
 }
 
-/* #1024 */
-/* ! for tests */
-/* @media screen and (max-width: 1279px) {
-  .page {
-    border: solid 5px red;
-  }
-} */
 
-/* #768 */
-/* ! for tests */
-/* @media screen and (max-width: 1023px) {
-  .page {
-    border: solid 5px green;
-  }
-} */
 
-/* #320 */
-/* ! for tests */
-/* @media screen and (max-width: 767px) {
-  .page {
-    border: solid 5px blue;
-  }
-} */
