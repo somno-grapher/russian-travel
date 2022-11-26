@@ -1,37 +1,15 @@
-/* #1280 */
 .header__lang-link {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   margin: 0;
   padding: 0;
-  /* background */
-  /* text */
   color: #fff;
   font-size: 24px;
   line-height: 1.17;
   text-decoration: none;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
 @media screen and (max-width: 767px) {
   .header__lang-link {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    /* background */
-    /* text */
     font-size: 18px;
     line-height: 1.11;
-    /* animation */
   }
 }

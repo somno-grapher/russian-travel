@@ -1,22 +1,5 @@
- /* #1280 */
  .intro__list {
-   /* position */
-   /* display */
-   /* size */
-   /* spacing */
    margin: 0;
    padding: 0;
-   /* background */
-   /* text */
    list-style-type: none;
-   /* animation */
  }
-
- /* #1024 */
- /* @media screen and (max-width: 1279px) {} */
-
- /* #768 */
- /* @media screen and (max-width: 1023px) {} */
-
- /* #320 */
- /* @media screen and (max-width: 767px) {} */

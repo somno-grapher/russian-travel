@@ -1,34 +1,12 @@
-/* #1280 */
 .footer__copyright {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   margin: 0;
   padding: 0;
-  /* background */
-  /* text */
   font-size: 14px;
   line-height: 1.14;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
 @media screen and (max-width: 767px) {
   .footer__copyright {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    /* background */
-    /* text */
     line-height: 1;
-    /* animation */
   }
 }

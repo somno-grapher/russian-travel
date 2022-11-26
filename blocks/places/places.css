@@ -1,56 +1,28 @@
 .places {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   padding-right: 148px;
   padding-bottom: 92px;
   padding-left: 148px;
-  /* background */
-  /* text */
-  /* animation */
 }
 
 @media screen and (max-width: 1279px) {
   .places {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
     padding-right: 48px;
     padding-left: 48px;
-    /* background */
-    /* text */
-    /* animation */
   }
 }
 
 @media screen and (max-width: 1023px) {
   .places {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
     padding-right: 24px;
     padding-bottom: 90px;
     padding-left: 24px;
-    /* background */
-    /* text */
-    /* animation */
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
     padding-right: 0;
     padding-bottom: 66px;
     padding-left: 0;
-    /* background */
-    /* text */
-    /* animation */
   }
 }

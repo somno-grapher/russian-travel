@@ -1,36 +1,14 @@
-/* #1280 */
 .footer__links-list {
-  /* position */
-  /* display */
   display: flex;
   align-items: flex-end;
-  /* size */
-  /* spacing */
   margin: 0;
   padding: 0;
-  /* background */
-  /* text */
   list-style-type: none;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
 @media screen and (max-width: 767px) {
   .footer__links-list {
-    /* position */
-    /* display */
     flex-direction: column;
     align-items: flex-start;
-    /* size */
-    /* spacing */
-    /* background */
-    /* text */
-    /* animation */
   }
 }

@@ -1,40 +1,18 @@
-/* #1280 */
 .lead__title {
-  /* position */
-  /* display */
-  /* size */
   max-width: 720px;
   width: 100%;
-  /* spacing */
   margin: 0 auto 0;
   padding: 0 0 32px;
-  /* background */
-  /* text */
   font-size: 96px;
   font-weight: 900;
   line-height: 1.04;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
 @media screen and (max-width: 767px) {
   .lead__title {
-    /* position */
-    /* display */
-    /* size */
     max-width: 288px;
-    /* spacing */
     padding-bottom: 16px;
-    /* background */
-    /* text */
     font-size: 40px;
     line-height: 1.1;
-    /* animation */
   }
 }

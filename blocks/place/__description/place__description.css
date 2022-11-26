@@ -1,45 +1,17 @@
-/* #1280 */
 .place__description {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
-  /* background */
-  /* text */
   font-size: 18px;
   line-height: 1.63;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
 @media screen and (max-width: 1023px) {
   .place__description {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    /* background */
-    /* text */
     font-size: 16px;
-    /* animation */
   }
 }
 
-/* #320 */
 @media screen and (max-width: 767px) {
   .place__description {
-    /* position */
-    /* display */
-    /* align-self: end; */
-    /* size */
-    /* spacing */
     padding-right: 16px;
     padding-left: 16px;
-    /* background */
-    /* text */
-    /* animation */
   }
 }

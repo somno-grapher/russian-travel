@@ -1,47 +1,18 @@
-/* #1280 */
 .footer__link {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   margin: 0;
   padding: 0;
-  /* background */
-  /* text */
   color: #fff;
   font-size: 16px;
   line-height: 1.12;
   text-decoration: none;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
 @media screen and (max-width: 767px) {
   .footer__link {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    /* background */
-    /* text */
     font-size: 24px;
     line-height: 1;
-    /* animation */
   }
     .footer__link:last-of-type {
-      /* position */
-      /* display */
-      /* size */
-      /* spacing */
       padding-bottom: 48px;
-      /* background */
-      /* text */
-      /* animation */
     }
 }

@@ -1,31 +1,8 @@
-/* #1280 */
 .header__lang-item {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   margin-right: 18px;
-  /* background */
-  /* text */
-  /* animation */
 }
 
 .header__lang-item:last-child {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
   margin-right: 0;
-  /* background */
-  /* text */
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
-
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
-
-/* #320 */
-/* @media screen and (max-width: 767px) {} */

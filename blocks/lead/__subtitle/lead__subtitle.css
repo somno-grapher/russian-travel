@@ -1,51 +1,24 @@
-/* #1280 */
 .lead__subtitle {
-  /* position */
-  /* display */
-  /* size */
   max-width: 640px;
   width: 100%;
-  /* spacing */
   margin: 0 auto 0;
   padding: 0 0 64px;
-  /* background */
-  /* text */
   font-size: 30px;
-  /* * font-weight: normal; by default */
   line-height: 1.2;
-  /* animation */
 }
 
-/* #1024 */
 @media screen and (max-width: 1279px) {
   .lead__subtitle {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
     padding-bottom: 56px;
-    /* background */
-    /* text */
-    /* animation */
   }
 }
 
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
 
-/* #320 */
 @media screen and (max-width: 767px) {
   .lead__subtitle {
-    /* position */
-    /* display */
-    /* size */
     max-width: 288px;
-    /* spacing */
     padding-bottom: 40px;
-    /* background */
-    /* text */
     font-size: 16px;
     line-height: 1.25;
-    /* animation */
   }
 }
