@@ -1,36 +1,16 @@
- /* #1280 */
  .place__url-heading {
-   /* position */
-   /* display */
-   /* size */
-   /* spacing */
    margin: 0;
    padding: 0 0 12px;
-   /* background */
-   /* text */
-   color: #AAAAAA;
+   color: #aaa;
    font-size: 12px;
    line-height: 1.7;
    letter-spacing: 2px;
-   /* animation */
+   text-transform: uppercase;
  }
 
- /* #1024 */
- /* @media screen and (max-width: 1279px) {} */
-
- /* #768 */
  @media screen and (max-width: 1023px) {
    .place__url-heading {
-     /* position */
-     /* display */
-     /* size */
-     /* spacing */
-     /* background */
-     /* text */
      line-height: 1;
-     /* animation */
    }
  }
 
- /* #320 */
- /* @media screen and (max-width: 767px) {} */
