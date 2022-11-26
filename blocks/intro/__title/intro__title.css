@@ -1,34 +1,14 @@
- /* #1280 */
  .intro__title {
-   /* position */
-   /* display */
-   /* size */
-   /* spacing */
-   /* background */
-   /* text */
+   margin: 0;
+   padding: 0 0 40px;
    font-weight: 900;
    font-size: 54px;
    line-height: 1.07;
-   /* animation */
  }
 
- /* #1024 */
- /* @media screen and (max-width: 1279px) {} */
-
- /* #768 */
- /* @media screen and (max-width: 1023px) {} */
-
- /* #320 */
  @media screen and (max-width: 767px) {
    .intro__title {
-     /* size */
-     /* spacing */
-     /* position */
-     /* display */
-     /* background */
-     /* text */
      font-size: 32px;
      line-height: 1.09;
-     /* animation */
    }
  }
