@@ -1,7 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 
-@import url(../blocks/root/root.css);
 
 @import url(../blocks/mix-link/mix-link.css);
 
@@ -45,3 +44,4 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/places/places.css);
+@import url(../blocks/root/root.css);
