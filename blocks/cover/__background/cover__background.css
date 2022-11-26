@@ -1,98 +1,53 @@
-/* #1280 */
 .cover__background {
-  /* position */
   position: relative;
   z-index: 0;
-  /* display */
-  display: block;
-  /* size */
-  padding-top: 245px;
-  padding-bottom: 245px;
-  /* spacing */
-  /* background */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 740px;
+  margin: 0;
+  padding: 0;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  /* text */
   color: #fff;
   text-align: center;
   text-decoration: none;
-  /* animation */
 }
 
 .cover__background::before {
-  /* position */
   position: absolute;
   z-index: -1;
   left: 0;
   top: 0;
-  /* display */
-  /* size */
   width: 100%;
   height: 100%;
-  /* spacing */
-  /* background */
-  background-color: #2A2C2F;
+  background-color: #2a2c2f;
   opacity: .3;
-  /* text */
   content: '';
-  /* animation */
   transition: opacity .3s;
 }
 
 .cover__background:hover::before {
-  /* position */
-  /* display */
-  /* size */
-  /* spacing */
-  /* background */
   opacity: .8;
-  /* text */
-  /* animation */
 }
 
-/* #1024 */
 @media screen and (max-width: 1279px) {
   .cover__background {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    padding-top: 195px;
-    padding-bottom: 195px;
-    /* background */
-    /* text */
-    /* animation */
+    min-height: 640px;
   }
 }
 
-/* #768 */
 @media screen and (max-width: 1023px) {
   .cover__background {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    padding-top: 115px;
-    padding-bottom: 115px;
-    /* background */
-    /* text */
-    /* animation */
+    min-height: 480px;
   }
 }
 
-/* #320 */
 @media screen and (max-width: 767px) {
   .cover__background {
-    /* position */
-    /* display */
-    /* size */
-    /* spacing */
-    padding-top: 33px;
-    padding-bottom: 33px;
-    /* background */
-    /* text */
-    /* animation */
+    min-height: 200px;
   }
 }

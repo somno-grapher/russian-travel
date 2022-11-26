@@ -1,39 +1,18 @@
-/* #1280 */
 .cover__subtitle {
-  /* position */
-  /* display */
-  /* size */
   max-width: 360px;
   width: 100%;
-  /* spacing */
   padding: 0;
-  margin: 0 auto 0;
-  /* background */
-  /* text */
+  margin: 0;
   font-size: 18px;
   line-height: 1.22;
-  /* animation */
 }
 
-/* #1024 */
-/* @media screen and (max-width: 1279px) {} */
 
-/* #768 */
-/* @media screen and (max-width: 1023px) {} */
 
-/* #320 */
 @media screen and (max-width: 767px) {
   .cover__subtitle {
-    /* position */
-    /* display */
-    /* size */
     max-width: 288px;
-    width: 100%;
-    /* spacing */
-    /* background */
-    /* text */
     font-size: 14px;
     line-height: 1.14;
-    /* animation */
   }
 }
